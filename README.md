@@ -53,7 +53,7 @@ lite                            # scratch-cn.lite 目录
 ├── package.json                #平台包依赖文件
 ├── process.json                #运行nodejs的配置
 ├── README.md                   #平台说明文件
-├── www.comecode.net.sql        #数据库结构文件
+├── lite.sql        #数据库结构文件
 ```
 #### 注：
 1. 数据库结构文件中，已包含部分Scratch作品；
